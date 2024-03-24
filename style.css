@@ -1,0 +1,18 @@
+:root {
+    --border-color: #ccc;
+    --background-color: #2299dd;
+    --background-color-2: #fff;
+    --background-color-3: #06A3DA;
+    --background-color-4: #34AD54;
+    --background-color-5: #E3F2FD;
+    --background-color-6: #06a2da8f;
+    --text-color: #fff;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
